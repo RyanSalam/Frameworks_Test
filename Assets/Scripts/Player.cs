@@ -23,6 +23,8 @@ public class Player : MonoBehaviour
         {
             AddToScore();
         }
+
+        // testing for github
     }
 
     public void AddToScore()
